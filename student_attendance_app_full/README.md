@@ -26,7 +26,7 @@ A  Python project using Tkinter GUI and SQLite (SQL database) to manage:
 
 ## How to Run
 
-1. Make sure you have **Python 3** installed.
+1. Make sure you have Python 3 installed.
 2. Extract this folder.
 3. Open terminal / CMD in the project root.
 4. Run:
