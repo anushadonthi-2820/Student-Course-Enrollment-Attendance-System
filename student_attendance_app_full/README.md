@@ -1,6 +1,6 @@
 # Student Course Enrollment & Attendance System
 
-A small Python project using **Tkinter GUI** and **SQLite** (SQL database) to manage:
+A  Python project using Tkinter GUI and SQLite (SQL database) to manage:
 
 - Students
 - Courses
